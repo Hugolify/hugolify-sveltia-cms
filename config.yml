@@ -1,0 +1,7 @@
+module:
+  imports:
+    # Import Decap CMS
+    - path: github.com/hugolify/hugolify-decap-cms
+  mounts:
+    - source: admin
+      target: static/admin
