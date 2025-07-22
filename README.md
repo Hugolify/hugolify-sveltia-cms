@@ -1,6 +1,6 @@
 # Hugolify Sveltia CMS
 
-Deprecated
+Deprecated\
 Please use https://github.com/Hugolify/hugolify-admin
 
 ## Install
