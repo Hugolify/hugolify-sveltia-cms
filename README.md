@@ -1,4 +1,7 @@
-# hugolify-sveltia-cms
+# Hugolify Sveltia CMS
+
+Deprecated
+Please use https://github.com/Hugolify/hugolify-admin
 
 ## Install
 
@@ -17,7 +20,7 @@ https://github.com/sveltia/sveltia-cms
 
 ## Documentation
 
-https://www.hugolify.io/docs/
+https://www.hugolify.io/docs/cms/sveltia-cms/
 
 ## Licensing
 
